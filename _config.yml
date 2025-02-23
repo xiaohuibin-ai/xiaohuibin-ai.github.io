@@ -11,8 +11,8 @@ permalink: /blog/:year/:month/:day/:title.html
 encoding: utf-8
 # Sections on the "people" page.
 roles:
-  - key: hobby
-    name: 旅行 Hobby
+  - key: faculty
+    name: 旅行  
   - key: grad
     name: 研究生 Graduate Students
   - key: ugrad
